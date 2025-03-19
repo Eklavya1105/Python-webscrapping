@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import os
 
-url = "https://api.squaresigns.com/api/Shopping/Calculate"
+url = "https://api.squaresigns.com/api/Shopping/Calculate" #your custom api url
 
 min_size = 4
 max_width = 48
